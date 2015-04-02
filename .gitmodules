@@ -1,0 +1,18 @@
+[submodule "App/Frontend"]
+	path = App/Frontend
+	url = git@github.com:AlienStream/Frontend.git
+[submodule "App/API"]
+	path = App/API
+	url = git@github.com:AlienStream/API.git
+[submodule "Foundation/Shared-Eloquent"]
+	path = Foundation/Shared-Eloquent
+	url = git@github.com:AlienStream/Shared-Eloquent.git
+[submodule "Foundation/Shared-Go/src/github.com/AlienStream/Shared-Go"]
+	path = Foundation/Shared-Go/src/github.com/AlienStream/Shared-Go
+	url = git@github.com:AlienStream/Shared-Go.git
+[submodule "Services/Parser/src/github.com/AlienStream/Parser"]
+	path = Services/Parser/src/github.com/AlienStream/Parser
+	url = git@github.com:AlienStream/Parser.git
+[submodule "Services/Predictor/src/github.com/AlienStream/Predictor"]
+	path = Services/Predictor/src/github.com/AlienStream/Predictor
+	url = git@github.com:AlienStream/Predictor.git
